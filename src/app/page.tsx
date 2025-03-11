@@ -67,7 +67,7 @@ export default function Home() {
               Welcome to our digital Agency where we meets expertise.
             </h1>
             <p className="text-gray-600 mb-8 max-w-lg">
-              Welcome to our digital agency, where innovation meets expertise to
+              Welcome to our digital agency where innovation meets expertise to
               transform your online presence. At Khanstudio we specialize in a
               spectrum of digital services.
             </p>
@@ -258,7 +258,7 @@ export default function Home() {
                 </div>
                 <h3 className="text-xl font-bold mb-2">Graphic Designing</h3>
                 <p className="text-gray-400 mb-4">
-                  Elevate your brand's presence with our cutting-edge graphic
+                  Elevate your brands presence with our cutting-edge graphic
                   design services.
                 </p>
                 <Link
